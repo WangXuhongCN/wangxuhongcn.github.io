@@ -59,7 +59,7 @@ sections:
 
         [2025.6] 作为通讯作者，指导实习生投稿论文，收录于ICCV2025。相关成果刷新多模态检索SOTA，可为具身AI提供50万帧的精确记忆检索功能,[查阅demo请点击](https://bwliu01.github.io/IDMR/)
 
-        [2025.5] [关于AI溯源的一作综述文章发表于Artificial Intelligence Review，60页两万词](https://link.springer.com/article/10.1007/s10462-025-11222-w)
+        [2025.5] [作为第一作者，发表关于AI溯源的综述文章，收录于Artificial Intelligence Review期刊，60页两万词](https://link.springer.com/article/10.1007/s10462-025-11222-w)
 
         [2024.10] 加入上海人工智能实验室，安全可信AI中心，负责大模型可信知识增强相关模块
 
@@ -69,7 +69,7 @@ sections:
 
         [2022.3] [合作论文收录于Nature Machine Intelligence](https://www.nature.com/articles/s42256-022-00459-7)
 
-        [2021.9] [一作图计算论文收录于SIGMOD 2021 Oral，是在蚂蚁集团的实习成果](https://dl.acm.org/doi/abs/10.1145/3448016.3457564)
+        [2021.9] [一作图计算论文收录于数据顶会SIGMOD 2021 Oral，是在蚂蚁集团的实习成果](https://dl.acm.org/doi/abs/10.1145/3448016.3457564)
 
         [2020.2] [人生第一篇论文发表于Knowledge-Based Systems期刊](https://www.sciencedirect.com/science/article/abs/pii/S0950705119305283)
     design:
