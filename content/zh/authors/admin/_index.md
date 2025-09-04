@@ -82,7 +82,7 @@ work:
       主要项目：
       - LLM 安全评估系统
       - 大规模 LLM 智能体系统
-      - 知识图谱表示学习
+      - 大模型沙箱进化系统
   - position: 应用科学家（实习生）
     company_name: AWS 上海AI Lab
     company_url: 'https://aws.amazon.com/cn/'
@@ -91,7 +91,14 @@ work:
     date_end: 2021-11-30
     summary: |
       团队负责维护Deep Graph Learning (DGL)，全球使用最广泛的图学习框架。我专注于改进动态图神经网络算法的模型。
-
+  - position: 研究型实习生
+    company_name: 蚂蚁集团-大安全
+    company_url: 'https://www.antgroup.com/en/home'
+    company_logo: ''
+    date_start: 2020-06-01
+    date_end: 2020-12-30
+    summary: |
+     基于图 (Graph) 计算的 AI 金融风控算法，该工作命中了数据顶会[SIGMOD Oral](https://dl.acm.org/doi/abs/10.1145/3448016.3457564)。
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 # skills:
@@ -141,17 +148,17 @@ work:
 awards:
   - title: 国家奖学金 - 本科
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2016-11-25'
+    date: '2016-09-25'
     awarder: 教育部
     # icon: coursera
     # summary: |
     #   I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
   - title: 国家奖学金 - 博士
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2021-11-20'
+    date: '2021-09-20'
     awarder: 教育部
 ---
 
 ## 关于我
 
-汪旭鸿是上海人工智能实验室的一名青年研究员。他与2017年本科毕业于四川大学，与2022年博士毕业于上海交通大学，博士主要研究方向为图计算和知识挖掘。目前，他的研究集中在利用交互反馈环境和参数化的记忆系统训练自我进化的语言模型。
+汪旭鸿是上海人工智能实验室的一名青年研究员。他与2017年本科毕业于四川大学，与2022年博士毕业于上海交通大学，博士主要研究方向为图计算和知识挖掘。目前，他的研究集中在实现可自我进化的可信多模态智能体。
