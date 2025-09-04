@@ -61,9 +61,9 @@ education:
     date_end: 2022-09-30
     summary: |
       My PhD research focuses on designing novel graph neural networks for modeling industry-level dynamic networks, such as knowledge graphs, social networks, and financial networks. Thesis on *Deep graph learning based anomaly detection and dynamic relation modeling*. 
-    button:
-      text: 'Read Thesis'
-      url: uploads/thesis.pdf
+    # button:
+    #   text: 'Read Thesis'
+    #   url: uploads/thesis.pdf
   - area: BSc Electronices Engineering
     institution: Sichuan University
     date_start: 2013-09-01

@@ -61,9 +61,9 @@ education:
     date_end: 2022-09-30
     summary: |
       我的博士研究集中在设计新颖的图神经网络框架，用于建模行业级的动态网络，如知识图谱、社交网络和金融网络。论文题目为*基于图深度学习的异常检测及动态关系建模*。
-    button:
-      text: 'Read Thesis'
-      url: uploads/thesis.pdf
+    # button:
+    #   text: 'Read Thesis'
+    #   url: uploads/thesis.pdf
   - area: 电子信息工程 本科
     institution: 四川大学
     date_start: 2013-09-01

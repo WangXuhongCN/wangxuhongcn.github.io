@@ -51,13 +51,13 @@ sections:
       text: |-
         [2025.8] 作为唯一通讯，发布了SOTA的CoT-PRM模型（[VRPRM](https://arxiv.org/abs/2508.03556)），Best-of-N的Test-time Scaling效果逼近理论极限值Pass@K，仅用1/8的数据超越SOTA模型118%。
 
-        [2025.8] 作为通讯作者，发布了能够同时操作数字化GUI界面和现实世界导航的[NaviMaster](https://iron-boyy.github.io/navimaster/)大一统模型。
+        [2025.8] 作为通讯作者，发布了能够同时操作数字化GUI界面和现实世界导航的NaviMaster大一统模型， [查阅demo请点击](https://iron-boyy.github.io/navimaster/)。
 
         [2025.8] 作为唯一通讯作者，指导实习生投稿论文，收录于EMNLP2025 Oral。主要研究“Uncertainty”对于Reasoning RL训练过程的影响
 
         [2025.7] [作为Core Lead，负责实验室SafeWork-R1的知识增强和“慎思模式”相关模块，相关成果发布于世界人工智能大会2025](https://arxiv.org/pdf/2507.18576)
 
-        [2025.6] 作为通讯作者，指导实习生投稿论文，收录于ICCV2025。相关成果刷新多模态检索SOTA，可为具身AI提供50万帧的精确记忆检索功能,[demo](https://bwliu01.github.io/IDMR/)
+        [2025.6] 作为通讯作者，指导实习生投稿论文，收录于ICCV2025。相关成果刷新多模态检索SOTA，可为具身AI提供50万帧的精确记忆检索功能,[查阅demo请点击](https://bwliu01.github.io/IDMR/)
 
         [2025.5] [关于AI溯源的一作综述文章发表于Artificial Intelligence Review，60页两万词](https://link.springer.com/article/10.1007/s10462-025-11222-w)
 
