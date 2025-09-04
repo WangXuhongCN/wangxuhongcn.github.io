@@ -65,7 +65,9 @@ sections:
 
         [2024.10] Join Safety and Trustworthy AI Center in the Shanghai AI Laboratory, responsible for knowledge enhancement for LLMs.
 
-        [2022.10] Join Shanghai AI Laboratory, mainly responsible for  AI security evaluation systems and multi-agent simulation platforms.
+        [2023.10] First author paper, [using a dynamic graph network evolution engine for accelerated simulation of complex transportation systems].(https://ieeexplore.ieee.org/abstract/document/10422572/)。
+
+        [2022.10] Join Shanghai AI Laboratory, mainly responsible for  AI security evaluation systems and multi-agent simulation platforms. I earned an 'Excellent' performance rating for two consecutive years.
 
         [2022.11] [A paper is included in the 1st Learning on Graphs Conference, mainly studying the evolution issue of dynamic graphs.](https://proceedings.mlr.press/v198/wang22c.html)
 
