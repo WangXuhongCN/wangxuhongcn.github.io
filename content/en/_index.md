@@ -57,15 +57,15 @@ sections:
 
         [2025.8] As the sole corresponding author, he directed the internship student to submit a paper, which was published in EMNLP2025 Oral. The main research focuses on the impact of "Uncertainty" on the reasoning RL training process.
 
-        [2025.7] [As Core Lead, responsible for knowledge enhancement of SafeWork-R1 and "Deliberation Mode" related modules, the relevant results are published at WAIC2025.](https://arxiv.org/pdf/2507.18576)
+        [2025.7] [As Core Lead, responsible for knowledge enhancement of SafeWork-R1 and "Deliberation Search Mode" related modules, the relevant results are published at WAIC2025.](https://arxiv.org/pdf/2507.18576)
 
-        [2025.6] As the corresponding author, he guided the internship student to submit a paper, which was included in ICCV 2025. The relevant achievements have refreshed the SOTA of multi-modal retrieval, and it can provide the function of precise memory retrieval for embodied AI with 500,000 frames.[demo](https://bwliu01.github.io/IDMR/)
+        [2025.6] As the corresponding author, he guided the internship student to submit a paper, which was included in ICCV 2025. The relevant achievements have refreshed the SOTA of multi-modal retrieval, and it can provide the function of precise memory retrieval for embodied AI with 500,000 frames. [demo](https://bwliu01.github.io/IDMR/)
 
         [2025.5] [A comprehensive review article on AI tracing was published in Artificial Intelligence Review, spanning 60 pages and comprising 20,000 words.](https://link.springer.com/article/10.1007/s10462-025-11222-w)
 
         [2024.10] Join Safety and Trustworthy AI Center in the Shanghai AI Laboratory, responsible for knowledge enhancement for LLMs.
 
-        [2023.10] First author paper, [using a dynamic graph network evolution engine for accelerated simulation of complex transportation systems].(https://ieeexplore.ieee.org/abstract/document/10422572/)。
+        [2023.10] First author paper, [using a dynamic graph network evolution engine for accelerated simulation of complex transportation systems](https://ieeexplore.ieee.org/abstract/document/10422572/).
 
         [2022.10] Join Shanghai AI Laboratory, mainly responsible for  AI security evaluation systems and multi-agent simulation platforms. I earned an 'Excellent' performance rating for two consecutive years.
 
@@ -79,17 +79,17 @@ sections:
     design:
       columns: '1' 
 
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 2
 
   # - block: collection
   #   id: talks

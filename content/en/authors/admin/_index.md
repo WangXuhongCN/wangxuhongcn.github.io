@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 汪旭鸿
+title: Xuhong Wang
 
 # Name pronunciation (optional)
 # name_pronunciation: Wang Hsü-Hung 
@@ -68,8 +68,7 @@ education:
     institution: Sichuan University
     date_start: 2013-09-01
     date_end: 2017-06-30
-    # summary: |
-    #   GPA: 3.6/4.0
+
 
 work:
   - position: Assistant Researcher
@@ -161,4 +160,4 @@ awards:
 
 ## About Me
 
-Xuhong Wang is an assistant researcher at the Shanghai Artificial Intelligence Laboratory. He graduated from Sichuan University with a Bachelor's degree in 2017, and obtained his Ph.D. from the Shanghai Jiao Tong University in 2022. His main research focus during his doctoral studies was graph learning and knowledge mining. Recently, his research focuses on training self-evolving trustworthy agents. Detailed pub list [Google Scholar homepage](https://scholar.google.com/citations?user=qBfqJbcAAAAJ&hl=en). The research center has long-term openings for intern positions, co-trained doctoral students, algorithm engineers, and researchers. Welcome to inquire via email (wangxuhong@pjlab.org.cn).
+Xuhong Wang is an assistant researcher at the Shanghai AI Laboratory. He graduated from Sichuan University with a Bachelor's degree in 2017, and obtained his Ph.D. from the Shanghai Jiao Tong University in 2022. His main research focus during his doctoral studies was graph learning and knowledge mining. Recently, his research focuses on training self-evolving trustworthy agents. Detailed pub list [Google Scholar homepage](https://scholar.google.com/citations?user=qBfqJbcAAAAJ&hl=en). The research center has long-term openings for intern positions, co-trained doctoral students, algorithm engineers, and researchers. Welcome to inquire via email (wangxuhong@pjlab.org.cn).
