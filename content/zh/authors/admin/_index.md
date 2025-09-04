@@ -55,7 +55,7 @@ interests:
   - 环境反馈强化学习
 
 education:
-  - area: 博士 人工智能
+  - area: 人工智能 博士
     institution: 上海交通大学
     date_start: 2017-09-01
     date_end: 2022-09-30
