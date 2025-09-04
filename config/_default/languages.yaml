@@ -5,6 +5,7 @@
 # Default language
 en:
   languageCode: en-us
+  title: Xuhong Wang
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/en
 
@@ -12,7 +13,7 @@ en:
 zh:
  languageCode: zh-Hans
  contentDir: content/zh
- title: Chinese website title...
+ title: 汪旭鸿的个人主页
  params:
    description: Site description in Chinese...
 #  menu:

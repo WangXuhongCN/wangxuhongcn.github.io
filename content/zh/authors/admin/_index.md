@@ -68,8 +68,6 @@ education:
     institution: 四川大学
     date_start: 2013-09-01
     date_end: 2017-06-30
-    # summary: |
-    #   GPA: 3.6/4.0
 
 work:
   - position: 青年研究员

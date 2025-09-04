@@ -48,10 +48,14 @@ sections:
   #     columns: '1'
   - block: markdown
     content:
-      title: 'Recent News'
+      title: '📚 Selected News'
       subtitle: ''
       text: |-
-        [2025.8] As the sole corresponding author, he directed the internship student to submit a paper, which was published in EMNLP2025. The main research focuses on the impact of "Uncertainty" on the reasoning RL training process.
+        [2025.8] Released the SOTA CoT-PRM model ([VRPRM](https://arxiv.org/abs/2508.03556)), achieving Test-time Scaling effect of Best-of-N approaching the theoretical limit value Pass@K, surpassing the SOTA model by 118% with only 1/8 of traning data.
+
+        [2025.8] A unified model [NaviMaster](https://iron-boyy.github.io/navimaster/) has been released that can operate both the digital GUI interface and real-world navigation simultaneously.
+
+        [2025.8] As the sole corresponding author, he directed the internship student to submit a paper, which was published in EMNLP2025 Oral. The main research focuses on the impact of "Uncertainty" on the reasoning RL training process.
 
         [2025.7] [As Core Lead, responsible for knowledge enhancement of SafeWork-R1 and "Deliberation Mode" related modules, the relevant results are published at WAIC2025.](https://arxiv.org/pdf/2507.18576)
 
@@ -61,7 +65,7 @@ sections:
 
         [2024.10] Join Safety and Trustworthy AI Center in the Shanghai AI Laboratory, responsible for knowledge enhancement for LLMs.
 
-        [2022.10] Join Shanghai AI Laboratory, mainly responsible for the delivery of "Pu'an" AI evaluation system and other engineering projects.
+        [2022.10] Join Shanghai AI Laboratory, mainly responsible for  AI security evaluation systems and multi-agent simulation platforms.
 
         [2022.11] [A paper is included in the 1st Learning on Graphs Conference, mainly studying the evolution issue of dynamic graphs.](https://proceedings.mlr.press/v198/wang22c.html)
 

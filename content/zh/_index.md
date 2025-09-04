@@ -46,12 +46,16 @@ sections:
   #     columns: '1'
   - block: markdown
     content:
-      title: 'Recent News'
+      title: '📚 Selected News'
       subtitle: ''
       text: |-
-        [2025.8] 作为唯一通讯作者，指导实习生投稿论文，收录于EMNLP2025。主要研究“Uncertainty”对于Reasoning RL训练过程的影响
+        [2025.8] 作为唯一通讯，发布了SOTA的CoT-PRM模型（[VRPRM](https://arxiv.org/abs/2508.03556)），Best-of-N的Test-time Scaling效果逼近理论极限值Pass@K，仅用1/8的数据超越SOTA模型118%。
 
-        [2025.7] [作为Core Lead，负责SafeWork-R1的知识增强和“慎思模式”相关模块，相关成果发布于WAIC2025](https://arxiv.org/pdf/2507.18576)
+        [2025.8] 作为通讯作者，发布了能够同时操作数字化GUI界面和现实世界导航的[NaviMaster](https://iron-boyy.github.io/navimaster/)大一统模型。
+
+        [2025.8] 作为唯一通讯作者，指导实习生投稿论文，收录于EMNLP2025 Oral。主要研究“Uncertainty”对于Reasoning RL训练过程的影响
+
+        [2025.7] [作为Core Lead，负责实验室SafeWork-R1的知识增强和“慎思模式”相关模块，相关成果发布于世界人工智能大会2025](https://arxiv.org/pdf/2507.18576)
 
         [2025.6] 作为通讯作者，指导实习生投稿论文，收录于ICCV2025。相关成果刷新多模态检索SOTA，可为具身AI提供50万帧的精确记忆检索功能,[demo](https://bwliu01.github.io/IDMR/)
 
@@ -59,7 +63,7 @@ sections:
 
         [2024.10] 加入上海人工智能实验室，安全可信AI中心，负责大模型可信知识增强相关模块
 
-        [2022.10] 入职上海人工智能实验室，青年研究员，从零学习，主要负责“浦安”AI安全评测系统等工程项目交付
+        [2022.10] 入职上海人工智能实验室，青年研究员，主要负责AI安全评测系统优化以及多智能体仿真平台
 
         [2022.11] [一作论文收录于第一届Learning on Graphs Conference，主要研究动态图的演化问题](https://proceedings.mlr.press/v198/wang22c.html)
 
@@ -70,7 +74,7 @@ sections:
         [2020.2] [人生第一篇论文发表于Knowledge-Based Systems期刊](https://www.sciencedirect.com/science/article/abs/pii/S0950705119305283)
     design:
       columns: '1'  
-      
+
   - block: collection
     id: papers
     content:
