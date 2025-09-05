@@ -6,7 +6,7 @@ date: 2025-05-27
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: '[**paper link**](https://link.springer.com/article/10.1007/s10462-025-11222-w)'
+  caption: '[**论文链接**](https://link.springer.com/article/10.1007/s10462-025-11222-w)'
 
 authors:
   - admin
@@ -19,6 +19,8 @@ tags:
 ---
 
 {{< toc mobile_only=true is_open=true >}}
+
+[**论文链接**](https://link.springer.com/article/10.1007/s10462-025-11222-w)
 
 ## 摘要
 大语言模型（LLMs）在各个行业中的应用日益广泛，但也带来了因未授权复制和滥用而产生的重大安全风险。为了克服这些问题，健全的身份识别机制被广泛认为是一种有效的策略。目前，用于LLMs的身份识别系统主要依赖水印技术来管理和保护知识产权并确保数据安全。然而，先前的研究主要集中在水印算法的基本原理上，缺乏从LLMs身份识别角度对水印理论和实践的全面分析。为弥补这一差距，我们首先探讨了如何通过水印技术在各种LLMs参与者中有效地实施和管理健全的身份识别系统。其次，我们提出了一个基于互信息理论的数学框架，该框架系统化了识别过程，实现更精确和定制化的水印。另外，我们对LLM水印的性能指标进行了全面评估，反映了参与者的偏好，并推动了其在识别应用方面的讨论。最后，我们概述了当前水印技术和理论框架中存在的挑战，并提供了解决这些挑战的方向性指导。我们系统的分类和详细的阐述旨在增强各种方法的比较和评估，促进进一步研究和发展一个透明、安全和公平的LLM生态系统。

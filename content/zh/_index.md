@@ -49,29 +49,29 @@ sections:
       title: '📚 Selected News'
       subtitle: ''
       text: |-
-        [2025.8] 作为唯一通讯，发布了SOTA的CoT-PRM模型（[VRPRM](https://arxiv.org/abs/2508.03556)），Best-of-N的Test-time Scaling效果逼近理论极限值Pass@K，仅用1/8的数据超越SOTA模型118%。
+        [2025.8] 作为唯一通讯，发布了SOTA的CoT-PRM模型（[VRPRM](https://arxiv.org/abs/2508.03556)），Best-of-N的Test-time Scaling效果逼近**理论极限值Pass@K**，仅用1/8的数据超越SOTA模型118%。
 
-        [2025.8] 作为通讯作者，发布了能够同时操作数字化GUI界面和现实世界导航的NaviMaster大一统模型， [查阅demo请点击](https://iron-boyy.github.io/navimaster/)。
+        [2025.8] 作为通讯作者，发布了能够同时操作数字化GUI界面和现实世界导航的**大一统模型**NaviMaster， [查阅demo请点击](https://iron-boyy.github.io/navimaster/)。
 
-        [2025.8] 作为唯一通讯作者，指导实习生投稿论文，收录于EMNLP2025 Oral。主要研究“Uncertainty”对于Reasoning RL训练过程的影响
+        [2025.8] 作为唯一通讯作者，指导实习生投稿论文，收录于**EMNLP2025 Oral**。全面研究“Uncertainty”属性对于LLM Judge、RL以及Test-Time Computing过程的影响
 
-        [2025.7] [作为Core Lead，负责实验室SafeWork-R1的知识增强和“慎思模式”相关模块，相关成果发布于世界人工智能大会2025](https://arxiv.org/pdf/2507.18576)
+        [2025.7] [作为Core Lead，负责实验室SafeWork-R1的知识增强和“**慎思模式**”相关模块，相关成果发布于世界人工智能大会2025](https://arxiv.org/pdf/2507.18576)
 
-        [2025.6] 作为通讯作者，指导实习生投稿论文，收录于ICCV2025。相关成果刷新多模态检索SOTA，可为具身AI提供50万帧的精确记忆检索功能,[查阅demo请点击](https://bwliu01.github.io/IDMR/)
+        [2025.6] 作为通讯作者，指导实习生投稿论文，收录于ICCV2025。相关成果刷新多模态检索SOTA，可为具身AI提供**50万帧的精确记忆检索**功能,[查阅demo请点击](https://bwliu01.github.io/IDMR/)
 
-        [2025.5] [作为第一作者，发表关于AI溯源的综述文章，收录于Artificial Intelligence Review期刊，60页两万词](https://link.springer.com/article/10.1007/s10462-025-11222-w)
+        [2025.5] [作为第一作者，发表关于AI溯源的综述文章，收录于Artificial Intelligence Review期刊，**60页两万词**](https://link.springer.com/article/10.1007/s10462-025-11222-w)
 
         [2024.10] 加入上海人工智能实验室，安全可信AI中心，负责大模型可信知识增强相关模块
 
         [2023.10] 以第一作者发表论文，[使用动态图网络演化引擎作为底层代理，进行复杂交通系统的加速仿真](https://ieeexplore.ieee.org/abstract/document/10422572/)。
 
-        [2022.10] 入职上海人工智能实验室，青年研究员，主要负责AI安全评测系统优化以及多智能体仿真平台, 连续两年绩效评估为优秀。
+        [2022.10] 入职上海人工智能实验室，青年研究员，主要负责AI安全评测系统优化以及多智能体仿真平台, **连续两年绩效评估为优秀**。
 
         [2022.11] [一作论文收录于第一届Learning on Graphs Conference，主要研究动态图的演化问题](https://proceedings.mlr.press/v198/wang22c.html)
 
         [2022.3] [合作论文收录于Nature Machine Intelligence](https://www.nature.com/articles/s42256-022-00459-7)
 
-        [2021.9] [一作图计算论文收录于数据顶会SIGMOD 2021 Oral，是在蚂蚁集团的实习成果](https://dl.acm.org/doi/abs/10.1145/3448016.3457564)
+        [2021.9] [一作图计算论文收录于**数据顶会SIGMOD 2021 Oral**，是在蚂蚁集团的实习成果](https://dl.acm.org/doi/abs/10.1145/3448016.3457564)
 
         [2020.2] [人生第一篇论文发表于Knowledge-Based Systems期刊](https://www.sciencedirect.com/science/article/abs/pii/S0950705119305283)
     design:
