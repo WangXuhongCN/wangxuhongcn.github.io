@@ -57,8 +57,6 @@ sections:
 
         [2025.8] 作为通讯作者，发布了能够同时操作数字化GUI界面和现实世界导航的**大一统模型**NaviMaster， [查阅demo请点击](https://iron-boyy.github.io/navimaster/)。
 
-        [2025.8] 作为唯一通讯作者，指导实习生投稿论文，收录于**EMNLP2025 Oral**。全面研究“Uncertainty”属性对于LLM Judge、RL以及Test-Time Computing过程的影响
-
         [2025.7] [作为Core Lead，负责实验室SafeWork-R1的知识增强和“**慎思模式**”相关模块，相关成果发布于世界人工智能大会2025](https://arxiv.org/pdf/2507.18576)
 
         [2025.6] 作为通讯作者，指导实习生投稿论文，收录于ICCV2025。相关成果刷新多模态检索SOTA，可为具身AI提供**50万帧的精确记忆检索**功能,[查阅demo请点击](https://bwliu01.github.io/IDMR/)

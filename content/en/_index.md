@@ -51,15 +51,13 @@ sections:
       title: '📚 Selected News'
       subtitle: ''
       text: |-
-        [2025.11] As the sole corresponding author, a large model RL reward model based on uncertainty modeling was presented at the **EMNLP 2025 Main (Oral)**, which can significantly improve the content thinking quality of large model inference training. 
+        [2025.11] As the sole corresponding author, a LLM reward model based on uncertainty modeling was presented at the **EMNLP 2025 Main (Oral)**, which can significantly improve the content thinking quality of large model inference training. 
         
         [2025.8] As the sole corresponding author, a distributed KV Cache architecture optimized for MoE models was released (PiKV: KV Cache Management System for Mixture of Experts)(https://arxiv.org/abs/2508.06526).
 
         [2025.8] Released the SOTA CoT-PRM model ([VRPRM](https://arxiv.org/abs/2508.03556)), achieving Test-time Scaling effect of Best-of-N approaching the theoretical limit value Pass@K, surpassing the SOTA model by 118% with only 1/8 of traning data.
 
         [2025.8] A unified model [NaviMaster](https://iron-boyy.github.io/navimaster/) has been released that can operate both the digital GUI interface and real-world navigation simultaneously.
-
-        [2025.8] As the sole corresponding author, he directed the internship student to submit a paper, which was published in EMNLP2025 Oral. The main research focuses on the impact of "Uncertainty" on the reasoning RL training process.
 
         [2025.7] [As Core Lead, responsible for knowledge enhancement of SafeWork-R1 and "Deliberation Search Mode" related modules, the relevant results are published at WAIC2025.](https://arxiv.org/pdf/2507.18576)
 
