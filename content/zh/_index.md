@@ -49,6 +49,10 @@ sections:
       title: '📚 Selected News'
       subtitle: ''
       text: |-
+        [2025.11] 作为唯一通讯，在**EMNLP 2025 Main（Oral）**发表基于不确定度建模的大模型RL奖励模型（[C2RM](https://aclanthology.org/2025.emnlp-main.1385/)），可以大幅度提高大模型推理训练的内容思考质量。
+
+        [2025.8] 作为唯一通讯，发布了针对MoE模型优化的分布式KV Cache架构（[PiKV: KV Cache Management System for Mixture of Experts](https://arxiv.org/abs/2508.06526)）。
+
         [2025.8] 作为唯一通讯，发布了SOTA的CoT-PRM模型（[VRPRM](https://arxiv.org/abs/2508.03556)），Best-of-N的Test-time Scaling效果逼近**理论极限值Pass@K**，仅用1/8的数据超越SOTA模型118%。
 
         [2025.8] 作为通讯作者，发布了能够同时操作数字化GUI界面和现实世界导航的**大一统模型**NaviMaster， [查阅demo请点击](https://iron-boyy.github.io/navimaster/)。
