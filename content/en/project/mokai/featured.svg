@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="180" y1="100" x2="1440" y2="820" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2A1300"/>
+      <stop offset="1" stop-color="#D66D00"/>
+    </linearGradient>
+    <linearGradient id="plate" x1="250" y1="180" x2="800" y2="650" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF4D8"/>
+      <stop offset="1" stop-color="#FFC56B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" rx="52" fill="url(#bg)"/>
+  <circle cx="1290" cy="170" r="210" fill="#FFE1A4" fill-opacity=".12"/>
+  <rect x="180" y="150" width="1240" height="600" rx="40" fill="#3A1D04" fill-opacity=".72" stroke="#FFD28A" stroke-opacity=".26"/>
+  <rect x="320" y="250" width="420" height="300" rx="36" fill="url(#plate)"/>
+  <rect x="360" y="300" width="340" height="54" rx="18" fill="#4D2A08"/>
+  <rect x="360" y="392" width="152" height="110" rx="22" fill="#4D2A08"/>
+  <rect x="548" y="392" width="152" height="110" rx="22" fill="#4D2A08"/>
+  <path d="M430 210H630" stroke="#FFE8BC" stroke-width="28" stroke-linecap="round"/>
+  <path d="M470 210V250M590 210V250" stroke="#FFE8BC" stroke-width="22" stroke-linecap="round"/>
+  <text x="860" y="365" fill="#FFF9EF" font-size="120" font-family="Verdana, Arial, sans-serif" font-weight="700" letter-spacing="8">MOKAI</text>
+  <text x="864" y="455" fill="#FFE0B0" font-size="38" font-family="Verdana, Arial, sans-serif">Full-stack agent security toolbox</text>
+  <text x="864" y="532" fill="#FFF3DF" font-size="30" font-family="Verdana, Arial, sans-serif">150+ tools · Risk simulation · Trusted data</text>
+</svg>

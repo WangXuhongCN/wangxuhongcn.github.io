@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Talk cover</title>
+  <desc id="desc">Abstract illustration for an invited talk on agent evaluation and safety governance.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#062c30"/>
+      <stop offset="100%" stop-color="#0f766e"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#fde68a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <circle cx="942" cy="158" r="112" fill="#ffffff" fill-opacity="0.08"/>
+  <circle cx="1018" cy="228" r="48" fill="#ffffff" fill-opacity="0.12"/>
+  <path d="M98 560C214 432 334 364 470 352c118-11 220 20 298 5 84-16 157-70 334-22V675H98Z" fill="#ffffff" fill-opacity="0.08"/>
+  <rect x="110" y="122" width="260" height="260" rx="36" fill="#ffffff" fill-opacity="0.1"/>
+  <path d="M222 173a64 64 0 0 1 128 0v76a64 64 0 0 1-128 0Z" fill="none" stroke="url(#glow)" stroke-width="24" stroke-linecap="round"/>
+  <path d="M286 319v73" stroke="url(#glow)" stroke-width="24" stroke-linecap="round"/>
+  <path d="M222 393h128" stroke="url(#glow)" stroke-width="24" stroke-linecap="round"/>
+  <path d="M466 170h482" stroke="#ccfbf1" stroke-opacity="0.85" stroke-width="18" stroke-linecap="round"/>
+  <path d="M466 237h406" stroke="#ccfbf1" stroke-opacity="0.58" stroke-width="18" stroke-linecap="round"/>
+  <path d="M466 304h330" stroke="#ccfbf1" stroke-opacity="0.4" stroke-width="18" stroke-linecap="round"/>
+  <path d="M466 420h256" stroke="#fef3c7" stroke-opacity="0.92" stroke-width="16" stroke-linecap="round"/>
+  <path d="M466 468h362" stroke="#fef3c7" stroke-opacity="0.56" stroke-width="16" stroke-linecap="round"/>
+</svg>

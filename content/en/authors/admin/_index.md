@@ -51,7 +51,7 @@ profiles:
 
 interests:
   - Mutli-model Large Language Model
-  - Self-evolving Memory System
+  - Next-generation Training Infrastructure
   - Reinforcement Learning with Environment Feedback
 
 education:
@@ -160,4 +160,4 @@ awards:
 
 ## About Me
 
-Xuhong Wang is an assistant researcher at the Shanghai AI Laboratory. He graduated from Sichuan University with a Bachelor's degree in 2017, and obtained his Ph.D. from the Shanghai Jiao Tong University in 2022. His main research focus during his doctoral studies was graph learning and knowledge mining. Recently, his research focuses on training self-evolving trustworthy agents. Detailed pub list [Google Scholar homepage](https://scholar.google.com/citations?user=qBfqJbcAAAAJ&hl=en). The research center has long-term openings for intern positions, co-trained doctoral students, algorithm engineers, and researchers. Welcome to inquire via email (wangxuhong@pjlab.org.cn).
+Xuhong Wang received his bachelor's degree from Sichuan University in 2017 and his Ph.D. from Shanghai Jiao Tong University in 2022. He was also a visiting scholar at the University of California, Berkeley, and received the National Scholarship twice. He has published more than 40 papers, including work in Nature Machine Intelligence, ICLR, and ACL, with up to 260 citations for a single paper and an h-index of 15. He previously contributed to Ant Group's graph computing system and the open-source Deep Graph Library (DGL, 15k stars). To study scaling laws for agents, he is currently focused on next-generation trustworthy training infrastructure, and open-sourced Safactory, the first RL framework supporting joint game-theoretic adversarial training across multiple base models. He will continue to release open datasets and models. For a full publication list, please visit his [Google Scholar profile](https://scholar.google.com/citations?user=qBfqJbcAAAAJ&hl=en). The research center has long-term openings for interns, jointly supervised PhD students, algorithm engineers, and researchers. Please reach out via email (wangxuhong@pjlab.org.cn).

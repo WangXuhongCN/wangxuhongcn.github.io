@@ -51,7 +51,7 @@ profiles:
 
 interests:
   - 多模态大语言模型
-  - 自进化记忆系统
+  - 下一代训练Infra
   - 环境反馈强化学习
 
 education:
@@ -78,9 +78,9 @@ work:
     date_end: ''
     summary: |2-
       主要项目：
-      - LLM 安全评估系统
-      - 大规模 LLM 智能体系统
-      - 大模型沙箱进化系统
+      - 面向下一代7x24智能体打造的训练Infra SAfactory，测训一体
+      - SafeWork-R1安全基础模型，通用能力和安全能力同步增长
+      - LLM 安全评估系统，支撑网信办大模型备案
   - position: 应用科学家（实习生）
     company_name: AWS 上海AI Lab
     company_url: 'https://aws.amazon.com/cn/'
@@ -159,4 +159,4 @@ awards:
 
 ## 关于我
 
-汪旭鸿是上海人工智能实验室的一名青年研究员。他于2017年本科毕业于四川大学，于2022年博士毕业于上海交通大学，博士主要研究方向为图计算和知识挖掘。目前，他的研究集中在实现可自我进化的可信多模态智能体，详细的pub list请见[谷歌学术主页](https://scholar.google.com/citations?user=qBfqJbcAAAAJ&hl=en)。研究中心长期开放实习生、联培博士、算法工程师、研究员名额，欢迎邮件(wangxuhong@pjlab.org.cn)咨询。
+汪旭鸿，2017年本科毕业于四川大学，2022年博士毕业于上海交通大学，美国UC伯克利访问学者，曾荣获国家奖学金（两次）。在包括Nature Machine Intelligence、ICLR、ACL等共发表 40 余篇论文，单篇最高引用260，H指数15。曾参与蚂蚁图计算系统研发以及开源图深度学习框架DGL(1.5万星)建设。为了探索智能体的scaling law，他目前主要从事面向的下一代可信训练Infra研究，开源了首个支持多基模共同博弈对抗训练的RL框架SAfactory，并将持续开源各类数据集和模型。详细的pub list请见[谷歌学术主页](https://scholar.google.com/citations?user=qBfqJbcAAAAJ&hl=en)。研究中心长期开放实习生、联培博士、算法工程师、研究员名额，欢迎邮件(wangxuhong@pjlab.org.cn)咨询。

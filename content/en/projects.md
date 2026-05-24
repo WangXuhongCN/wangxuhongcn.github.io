@@ -11,13 +11,14 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Selected Open Source Projects
+      text: A curated set of open source projects I actively drive, spanning trustworthy agent training, security tooling, data governance, multimodal content identification, and agent engineering plugins.
       filters:
         folders:
           - project
     design:
       view: article-grid
       fill_image: false
+      show_date: false
       columns: 3
 ---

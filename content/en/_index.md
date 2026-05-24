@@ -51,13 +51,29 @@ sections:
       title: '📚 Selected News'
       subtitle: ''
       text: |-
-        [2025.11] As the sole corresponding author, a LLM reward model based on uncertainty modeling was presented at the **EMNLP 2025 Main (Oral)**, which can significantly improve the content thinking quality of large model inference training. 
+        [2026.5] [Released the Safactory technical report](https://arxiv.org/abs/2605.06230), presenting a scalable agentic infrastructure for training trustworthy autonomous intelligence through a closed-loop pipeline spanning parallel simulation, trustworthy data, and autonomous evolution.
+
+        [2026.5] [NaviMaster](https://arxiv.org/abs/2508.02046) was accepted to **ACL 2026 Main**, unifying GUI and embodied navigation with a mixed-trajectory reinforcement learning framework for stronger cross-domain generalization.
+
+        [2026.4] [Released Mokai](https://mp.weixin.qq.com/s/ITZm3asvjCbbD_540ezqqw), a full-stack agent security toolbox with 150+ tools spanning risk simulation, trusted data, and evolutionary defense for practical deployment.
+
+        [2026.4] [Deliberative Searcher](https://arxiv.org/abs/2507.16727) was accepted to **ACL 2026 Oral**, integrating certainty calibration and retrieval-based search into constrained reinforcement learning to improve reliability and calibration in open-domain QA.
+
+        [2026.4] [From Coarse to Fine](https://arxiv.org/abs/2604.27453) was accepted to **ACL 2026 Findings**, introducing the fine-grained WEval benchmark and WRL reward modeling framework for writing-centric generation with more precise requirement adherence.
+
+        [2026.3] [Released DRIFT](https://mp.weixin.qq.com/s/19OFUdNd5RS8QcEVkvr74A), later accepted to **ACL 2026**; the related [paper](https://arxiv.org/abs/2602.10021) proposes a dual-model framework that decouples knowledge extraction from reasoning through implicit fact tokens for efficient long-context inference, stronger robustness, and resistance to jailbreak prompts.
+
+        [2026.2] [TPRU](https://arxiv.org/abs/2602.18884) was accepted to **ICLR 2026 Oral**, introducing a temporal and procedural understanding dataset plus an RL training pipeline that substantially improves lightweight multimodal models across robotics and GUI scenarios.
+
+        [2025.12] [BioBridge](https://arxiv.org/abs/2602.17680) was presented at **BIBM 2025 (CCF-B)** as a representative protein-understanding application of reading-reasoning decoupling: a protein language model reads sequences into LLM-compatible representations, while the LLM focuses on downstream biological reasoning without sacrificing general capability.
+
+        [2025.11] As the sole corresponding author, a LLM reward model based on uncertainty modeling was presented at **EMNLP 2025 Main (Oral)**, which can significantly improve the content thinking quality of large model inference training. 
+
+        [2025.9] [Released a roadmap for Safe and Trustworthy Embodied AI](https://mp.weixin.qq.com/s/CgBf-ZvMgfsWOrFlGKPZ8g) with Xin Tan, Chaochao Lu, and [Bowen Zhou](https://c3i.ee.tsinghua.edu.cn/author/%E5%91%A8%E4%BC%AF%E6%96%87/), defining the field with ten core principles and an L1-L5 maturity model.
         
-        [2025.8] As the sole corresponding author, a distributed KV Cache architecture optimized for MoE models was released (PiKV: KV Cache Management System for Mixture of Experts)(https://arxiv.org/abs/2508.06526).
+        [2025.8] As the sole corresponding author, a distributed KV Cache architecture optimized for MoE models was released ([PiKV: KV Cache Management System for Mixture of Experts](https://arxiv.org/abs/2508.06526)).
 
         [2025.8] Released the SOTA CoT-PRM model ([VRPRM](https://arxiv.org/abs/2508.03556)), achieving Test-time Scaling effect of Best-of-N approaching the theoretical limit value Pass@K, surpassing the SOTA model by 118% with only 1/8 of traning data.
-
-        [2025.8] A unified model [NaviMaster](https://iron-boyy.github.io/navimaster/) has been released that can operate both the digital GUI interface and real-world navigation simultaneously.
 
         [2025.7] [As Core Lead, responsible for knowledge enhancement of SafeWork-R1 and "Deliberation Search Mode" related modules, the relevant results are published at WAIC2025.](https://arxiv.org/pdf/2507.18576)
 
@@ -96,13 +112,13 @@ sections:
   # - block: collection
   #   id: talks
   #   content:
-  #     title: Recent & Upcoming Talks
+  #     title: '🎤 Talks'
   #     filters:
   #       folders:
   #         - event
   #   design:
   #     view: article-grid
-  #     columns: 1
+  #     columns: 2
   # - block: collection
   #   id: news
   #   content:

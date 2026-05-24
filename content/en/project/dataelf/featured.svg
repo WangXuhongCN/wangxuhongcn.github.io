@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="120" y1="120" x2="1480" y2="780" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#032D2E"/>
+      <stop offset="1" stop-color="#0F8B8D"/>
+    </linearGradient>
+    <linearGradient id="shield" x1="280" y1="170" x2="760" y2="610" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D6FFF4"/>
+      <stop offset="1" stop-color="#62E0C5"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" rx="52" fill="url(#bg)"/>
+  <circle cx="1340" cy="170" r="220" fill="#A9FFF0" fill-opacity=".12"/>
+  <rect x="180" y="150" width="1240" height="600" rx="40" fill="#083D3F" fill-opacity=".72" stroke="#8FF3DF" stroke-opacity=".24"/>
+  <path d="M540 230L720 300V470C720 579 643 640 540 682C437 640 360 579 360 470V300L540 230Z" fill="url(#shield)"/>
+  <path d="M540 316V548M430 432H650" stroke="#0A5556" stroke-width="28" stroke-linecap="round"/>
+  <circle cx="330" cy="310" r="34" fill="#C4FFF2"/>
+  <circle cx="290" cy="460" r="26" fill="#8FF3DF"/>
+  <circle cx="760" cy="360" r="28" fill="#8FF3DF"/>
+  <circle cx="760" cy="520" r="34" fill="#C4FFF2"/>
+  <path d="M330 310L360 322M290 460L360 448M720 352L760 360M720 510L760 520" stroke="#C9FFF5" stroke-width="16" stroke-linecap="round"/>
+  <text x="880" y="365" fill="#F5FFFC" font-size="116" font-family="Verdana, Arial, sans-serif" font-weight="700" letter-spacing="8">DATAELF</text>
+  <text x="884" y="455" fill="#BEFFF2" font-size="38" font-family="Verdana, Arial, sans-serif">Offline-ready data security agent</text>
+  <text x="884" y="532" fill="#E7FFFA" font-size="30" font-family="Verdana, Arial, sans-serif">Risk detection · Local auditing · Least privilege</text>
+</svg>
