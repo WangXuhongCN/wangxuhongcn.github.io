@@ -82,6 +82,14 @@ That means the agent is no longer tested in a frozen benchmark. It must adapt to
 
 One example from the original page is especially clear: when a chair blocks the only path to the goal, the agent initially fails. After online training, it learns to recognize the obstacle, reroute, or even move the chair away. The point is not only that it encounters a failure, but that it can grow inside that failure.
 
+## Full SafeVerse Demo
+This video restores the full-process demo referenced in the original webpage and shows the combined effect of reconstruction, attack-oriented editing, and online evolution more clearly.
+
+<video controls style="width: 100%; max-width: 960px; margin: 0 auto; display: block;">
+  <source src="/media/safeverse.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## What This Work Shows
 SafeVerse is not just another embodied simulator. Its main contribution is that it connects three capabilities into one loop: fast digitization of a specified real scene, attack-oriented scene editing, and online RL-based agent evolution.
 
