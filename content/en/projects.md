@@ -21,4 +21,16 @@ sections:
       fill_image: false
       show_date: false
       columns: 3
+  - block: collection
+    content:
+      title: Other Exploratory Open Source Projects
+      text: Additional exploratory projects spanning embodied navigation, long-term visual memory retrieval, and curated resources for trustworthy embodied AI.
+      filters:
+        folders:
+          - other-project
+    design:
+      view: article-grid
+      fill_image: false
+      show_date: false
+      columns: 3
 ---

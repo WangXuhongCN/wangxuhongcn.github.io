@@ -21,4 +21,16 @@ sections:
       fill_image: false
       show_date: false
       columns: 3
+  - block: collection
+    content:
+      title: 其他探索性开源项目
+      text: 这里继续整理了几项探索性项目，聚焦具身导航、长期视觉记忆检索，以及安全可信具身智能方向的资源组织与知识沉淀。
+      filters:
+        folders:
+          - other-project
+    design:
+      view: article-grid
+      fill_image: false
+      show_date: false
+      columns: 3
 ---

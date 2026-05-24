@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Awesome list cover</title>
+  <desc id="desc">Abstract illustration for a curated resource hub on trustworthy embodied AI.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2d1b69"/>
+      <stop offset="100%" stop-color="#0f766e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f9a8d4"/>
+      <stop offset="100%" stop-color="#fde68a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <rect x="122" y="104" width="344" height="454" rx="28" fill="#ffffff" fill-opacity=".1"/>
+  <path d="M186 184h212" stroke="#fdf2f8" stroke-linecap="round" stroke-width="18"/>
+  <path d="M186 254h180" stroke="#fdf2f8" stroke-linecap="round" stroke-opacity=".7" stroke-width="18"/>
+  <path d="M186 324h196" stroke="#fdf2f8" stroke-linecap="round" stroke-opacity=".56" stroke-width="18"/>
+  <path d="M186 394h154" stroke="#fdf2f8" stroke-linecap="round" stroke-opacity=".42" stroke-width="18"/>
+  <circle cx="824" cy="228" r="114" fill="#ffffff" fill-opacity=".08"/>
+  <path d="M700 438c26-54 79-96 146-102 86-9 151 43 184 112" fill="none" stroke="url(#accent)" stroke-linecap="round" stroke-width="22"/>
+  <circle cx="824" cy="228" r="52" fill="none" stroke="url(#accent)" stroke-width="18"/>
+  <circle cx="824" cy="228" r="16" fill="#fde68a"/>
+  <path d="M624 508h360" stroke="#d1fae5" stroke-linecap="round" stroke-width="18"/>
+  <path d="M624 568h284" stroke="#d1fae5" stroke-linecap="round" stroke-opacity=".58" stroke-width="18"/>
+</svg>
