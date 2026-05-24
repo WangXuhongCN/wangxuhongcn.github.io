@@ -81,4 +81,3 @@ The broader significance of SafeWork-R1 is therefore not just that it releases a
 
 ## Related Links
 - Paper: [https://arxiv.org/abs/2507.18576](https://arxiv.org/abs/2507.18576)
-- This post is rewritten into local Markdown from the SafeWork-R1 webpage bundle stored in `/Users/wangxuhong/code/素材`

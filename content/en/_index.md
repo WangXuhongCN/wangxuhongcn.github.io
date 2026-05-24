@@ -69,7 +69,7 @@ sections:
 
         [2026.2] [Released SafeVerse: a safe and trustworthy digital twin arena for embodied AI](/en/post/safeverse/), turning ordinary videos into interactive, physics-aware 3D twin scenes within minutes, then extending them with attack-oriented editing and online agent evolution.
 
-        [2025.12] [BioBridge](https://arxiv.org/abs/2602.17680) was presented at **BIBM 2025 (CCF-B)** as a representative protein-understanding application of reading-reasoning decoupling: a protein language model reads sequences into LLM-compatible representations, while the LLM focuses on downstream biological reasoning without sacrificing general capability.
+        [2025.12] [Released BioBridge: letting LLMs truly understand proteins without sacrificing general ability](/en/post/biobridge/); the related [paper](https://arxiv.org/abs/2602.17680) was presented at **BIBM 2025 (CCF-B)**, combining specialist protein reading with LLM reasoning to reach near-specialist performance on real biological tasks.
 
         [2025.11] As the sole corresponding author, a LLM reward model based on uncertainty modeling was presented at **EMNLP 2025 Main (Oral)**, which can significantly improve the content thinking quality of large model inference training. 
 

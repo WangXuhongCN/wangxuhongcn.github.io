@@ -97,4 +97,3 @@ Many embodied platforms are good at offering training spaces. SafeVerse is more 
 
 ## Related Links
 - GitHub: [https://github.com/AI45Lab/SafeVerse](https://github.com/AI45Lab/SafeVerse)
-- This post is rewritten into local Markdown from the SafeVerse webpage bundle stored in `/Users/wangxuhong/code/素材`

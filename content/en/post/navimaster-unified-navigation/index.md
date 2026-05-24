@@ -131,4 +131,3 @@ From that perspective, NaviMaster is best seen as an early but meaningful step t
 ## Related Links
 - Paper: *NaviMaster: Learning a Unified Policy for GUI and Embodied Navigation Tasks*
 - Project page: [https://iron-boyy.github.io/navimaster/](https://iron-boyy.github.io/navimaster/)
-- This post is rewritten from the local `navimaster` folder materials, including the `.docx`, figures, and demo videos
