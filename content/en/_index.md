@@ -67,6 +67,8 @@ sections:
 
         [2026.2] [TPRU](https://arxiv.org/abs/2602.18884) was accepted to **ICLR 2026 Oral**, introducing a temporal and procedural understanding dataset plus an RL training pipeline that substantially improves lightweight multimodal models across robotics and GUI scenarios.
 
+        [2026.2] [Released SafeVerse: a safe and trustworthy digital twin arena for embodied AI](/en/post/safeverse/), turning ordinary videos into interactive, physics-aware 3D twin scenes within minutes, then extending them with attack-oriented editing and online agent evolution.
+
         [2025.12] [BioBridge](https://arxiv.org/abs/2602.17680) was presented at **BIBM 2025 (CCF-B)** as a representative protein-understanding application of reading-reasoning decoupling: a protein language model reads sequences into LLM-compatible representations, while the LLM focuses on downstream biological reasoning without sacrificing general capability.
 
         [2025.11] As the sole corresponding author, a LLM reward model based on uncertainty modeling was presented at **EMNLP 2025 Main (Oral)**, which can significantly improve the content thinking quality of large model inference training. 
@@ -77,7 +79,7 @@ sections:
 
         [2025.8] Released the SOTA CoT-PRM model ([VRPRM](https://arxiv.org/abs/2508.03556)), achieving Test-time Scaling effect of Best-of-N approaching the theoretical limit value Pass@K, surpassing the SOTA model by 118% with only 1/8 of traning data.
 
-        [2025.7] [As Core Lead, responsible for knowledge enhancement of SafeWork-R1 and "Deliberation Search Mode" related modules, the relevant results are published at WAIC2025.](https://arxiv.org/pdf/2507.18576)
+        [2025.7] [As Core Lead, I led the knowledge enhancement and "Deliberation Search Mode" related modules of SafeWork-R1, with the results released at WAIC 2025.](/en/post/safework-r1/); the related [paper](https://arxiv.org/abs/2507.18576) presents the SafeLadder framework for jointly improving multimodal reasoning safety and general capability.
 
         [2025.6] As the corresponding author, he guided the internship student to submit a paper, which was included in ICCV 2025. The relevant achievements have refreshed the SOTA of multi-modal retrieval, and it can provide the function of precise memory retrieval for embodied AI with 500,000 frames. [demo](https://bwliu01.github.io/IDMR/)
 

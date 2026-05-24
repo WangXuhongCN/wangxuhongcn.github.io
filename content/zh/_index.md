@@ -65,6 +65,8 @@ sections:
 
         [2026.2] [TPRU](https://arxiv.org/abs/2602.18884) 收录于 **ICLR 2026 Oral**，构建面向机器人操作与 GUI 导航的时序与过程理解数据集，并结合强化学习显著提升轻量多模态模型的程序性理解能力。
 
+        [2026.2] [发布 SafeVerse：构建安全可信的具身智能“孪生演练场”](/post/safeverse/)，将普通视频在分钟级转化为可交互、符合物理规律的 3D 孪生场景，并进一步支持攻防编辑与智能体在线进化，形成“重建-攻防-进化”闭环。
+
         [2025.12] 发布[BioBridge](https://arxiv.org/abs/2602.17680) 模型 **BIBM 2025（CCF-B）**，作为知识解耦在蛋白质理解任务中的典型应用，由蛋白语言模型负责“读懂蛋白”，LLM 专注任务推理，在保持接近 SOTA 蛋白模型能力的同时保留通用语言理解能力。
 
         [2025.11] 作为唯一通讯，在 **EMNLP 2025 Main（Oral）** 发表基于不确定度建模的大模型RL奖励模型（[C2RM](https://aclanthology.org/2025.emnlp-main.1385/)），可以大幅度提高大模型推理训练的内容思考质量。
@@ -75,7 +77,7 @@ sections:
 
         [2025.8] 作为唯一通讯，发布了SOTA的CoT-PRM模型（[VRPRM](https://arxiv.org/abs/2508.03556)），Best-of-N的Test-time Scaling效果逼近**理论极限值Pass@K**，仅用1/8的数据超越SOTA模型118%。
 
-        [2025.7] [作为Core Lead，负责实验室SafeWork-R1的知识增强和“**慎思模式**”相关模块，相关成果发布于世界人工智能大会2025](https://arxiv.org/pdf/2507.18576)
+        [2025.7] [作为 Core Lead，负责 SafeWork-R1 的知识增强和“**慎思模式**”相关模块，相关成果发布于世界人工智能大会 2025](/post/safework-r1/)；相关 [paper](https://arxiv.org/abs/2507.18576) 基于 SafeLadder 安全加固框架，实现了多模态推理模型在安全性与通用能力上的协同提升。
 
         [2025.6] 作为通讯作者，指导实习生投稿论文，收录于ICCV2025。相关成果刷新多模态检索SOTA，可为具身AI提供**50万帧的精确记忆检索**功能,[查阅demo请点击](https://bwliu01.github.io/IDMR/)
 
