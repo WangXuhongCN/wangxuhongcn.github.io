@@ -1,5 +1,5 @@
 ---
-title: The First Unified Navigation Model Across Digital and Physical Worlds, with Minecraft Support
+title: Navimaster:The First Unified Navigation Model Across Digital and Physical Worlds, with Minecraft Support
 summary: NaviMaster unifies GUI navigation and embodied navigation within a single training framework. Through a shared trajectory formulation, unified reinforcement learning, and distance-aware dense rewards, it improves cross-task generalization, training efficiency, and spatial precision at the same time.
 date: 2026-03-18
 authors:
