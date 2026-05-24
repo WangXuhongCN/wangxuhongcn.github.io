@@ -24,7 +24,7 @@ sections:
   - block: collection
     content:
       title: 其他探索性开源项目
-      text: 这里继续整理了几项探索性项目，聚焦具身导航、长期视觉记忆检索，以及安全可信具身智能方向的资源组织与知识沉淀。
+      text: 这里继续整理了几项探索性项目，聚焦具身导航、长期视觉记忆检索、多模态感知鲁棒性，以及安全可信具身智能方向的资源组织与知识沉淀。
       filters:
         folders:
           - other-project

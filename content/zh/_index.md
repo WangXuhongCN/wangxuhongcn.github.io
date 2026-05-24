@@ -61,6 +61,8 @@ sections:
 
         [2026.3] [发布新知识推理解耦方法DRIFT](https://mp.weixin.qq.com/s/19OFUdNd5RS8QcEVkvr74A)，并收录于 **ACL 2026**；相关 [paper](https://arxiv.org/abs/2602.10021) 提出知识读取与推理解耦的双模型框架，用隐式事实 token 替代冗余长文本，在长上下文任务上兼顾效率与性能，并天然增强抗越狱能力。
 
+        [2026.2] [发布 AOT 感知鲁棒性项目](https://yicbao.github.io/To-Deceive-is-to-Teach-Forging-Perceptual-Robustness-via-Adversarial-Reinforcement-Learning/)，相关 [paper](https://arxiv.org/abs/2602.22227) 提出 AOT-SFT 对抗数据集与攻击者-防御者协同进化的自博弈框架，在复杂视觉场景下持续提升多模态模型的感知鲁棒性，并显著减少幻觉。
+
         [2026.2] [TPRU](https://arxiv.org/abs/2602.18884) 收录于 **ICLR 2026 Oral**，构建面向机器人操作与 GUI 导航的时序与过程理解数据集，并结合强化学习显著提升轻量多模态模型的程序性理解能力。
 
         [2025.12] 发布[BioBridge](https://arxiv.org/abs/2602.17680) 模型 **BIBM 2025（CCF-B）**，作为知识解耦在蛋白质理解任务中的典型应用，由蛋白语言模型负责“读懂蛋白”，LLM 专注任务推理，在保持接近 SOTA 蛋白模型能力的同时保留通用语言理解能力。

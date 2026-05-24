@@ -63,6 +63,8 @@ sections:
 
         [2026.3] [Released DRIFT](https://mp.weixin.qq.com/s/19OFUdNd5RS8QcEVkvr74A), later accepted to **ACL 2026**; the related [paper](https://arxiv.org/abs/2602.10021) proposes a dual-model framework that decouples knowledge extraction from reasoning through implicit fact tokens for efficient long-context inference, stronger robustness, and resistance to jailbreak prompts.
 
+        [2026.2] [Released the AOT perceptual robustness project](https://yicbao.github.io/To-Deceive-is-to-Teach-Forging-Perceptual-Robustness-via-Adversarial-Reinforcement-Learning/); the related [paper](https://arxiv.org/abs/2602.22227) introduces the AOT-SFT adversarial dataset and an attacker-defender self-play framework that continually improves multimodal perceptual robustness in visually complex scenes while reducing hallucinations.
+
         [2026.2] [TPRU](https://arxiv.org/abs/2602.18884) was accepted to **ICLR 2026 Oral**, introducing a temporal and procedural understanding dataset plus an RL training pipeline that substantially improves lightweight multimodal models across robotics and GUI scenarios.
 
         [2025.12] [BioBridge](https://arxiv.org/abs/2602.17680) was presented at **BIBM 2025 (CCF-B)** as a representative protein-understanding application of reading-reasoning decoupling: a protein language model reads sequences into LLM-compatible representations, while the LLM focuses on downstream biological reasoning without sacrificing general capability.
