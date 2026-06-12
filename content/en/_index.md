@@ -51,6 +51,10 @@ sections:
       title: '📚 Selected News'
       subtitle: ''
       text: |-
+        [2026.6] Appointed as **Adjunct PhD Co-Supervisor** at **Shanghai Jiao Tong University**, focusing on AI safety and trustworthy AI systems, advancing joint talent development and frontier research between the PuJiang National Lab and academia.
+
+        [2026.6] Appointed as **Lead Principal Investigator** (课题负责人) of the **"Science Intelligence (AI4S) Secure Service Middleware" sub-project** under China's **"New Generation AI" National Major Project**, with total funding of **¥10 million**, building security infrastructure for scientific computing, drug discovery, and industry simulation.
+
         [2026.5] [Released the Safactory technical report](https://arxiv.org/abs/2605.06230), presenting a scalable agentic infrastructure for training trustworthy autonomous intelligence through a closed-loop pipeline spanning parallel simulation, trustworthy data, and autonomous evolution.
 
         [2026.5] [NaviMaster](https://arxiv.org/abs/2508.02046) was accepted to **ACL 2026 Main**, unifying GUI and embodied navigation with a mixed-trajectory reinforcement learning framework for stronger cross-domain generalization.
